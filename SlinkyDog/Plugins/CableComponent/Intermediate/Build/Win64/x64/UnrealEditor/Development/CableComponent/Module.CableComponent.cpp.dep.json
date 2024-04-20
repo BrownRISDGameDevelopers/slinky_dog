@@ -1,0 +1,28 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\_unreal\\unrealprojects\\howl\\plugins\\cablecomponent\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\cablecomponent\\module.cablecomponent.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\_unreal\\unrealprojects\\howl\\intermediate\\build\\win64\\x64\\howleditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "d:\\_unreal\\unrealprojects\\howl\\plugins\\cablecomponent\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\cablecomponent\\definitions.cablecomponent.h",
+            "d:\\_unreal\\unrealprojects\\howl\\plugins\\cablecomponent\\intermediate\\build\\win64\\unrealeditor\\inc\\cablecomponent\\uht\\cablecomponent.init.gen.cpp",
+            "d:\\_unreal\\unrealprojects\\howl\\plugins\\cablecomponent\\source\\cablecomponent\\private\\cableactor.cpp",
+            "d:\\_unreal\\unrealprojects\\howl\\plugins\\cablecomponent\\source\\cablecomponent\\classes\\cableactor.h",
+            "d:\\_unreal\\unrealprojects\\howl\\plugins\\cablecomponent\\intermediate\\build\\win64\\unrealeditor\\inc\\cablecomponent\\uht\\cableactor.generated.h",
+            "d:\\_unreal\\unrealprojects\\howl\\plugins\\cablecomponent\\source\\cablecomponent\\classes\\cablecomponent.h",
+            "d:\\_unreal\\unrealprojects\\howl\\plugins\\cablecomponent\\intermediate\\build\\win64\\unrealeditor\\inc\\cablecomponent\\uht\\cablecomponent.generated.h",
+            "d:\\_unreal\\unrealprojects\\howl\\plugins\\cablecomponent\\intermediate\\build\\win64\\unrealeditor\\inc\\cablecomponent\\uht\\cableactor.gen.cpp",
+            "d:\\_unreal\\unrealprojects\\howl\\plugins\\cablecomponent\\source\\cablecomponent\\private\\cablecomponent.cpp",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\public\\materialdomain.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\materialdomain.generated.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\public\\materials\\materialrenderproxy.h",
+            "d:\\_unreal\\unrealprojects\\howl\\plugins\\cablecomponent\\source\\cablecomponent\\private\\cablecomponentstats.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\public\\dynamicmeshbuilder.h",
+            "d:\\_unreal\\unrealprojects\\howl\\plugins\\cablecomponent\\intermediate\\build\\win64\\unrealeditor\\inc\\cablecomponent\\uht\\cablecomponent.gen.cpp",
+            "d:\\_unreal\\unrealprojects\\howl\\plugins\\cablecomponent\\source\\cablecomponent\\private\\cablecomponentplugin.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
