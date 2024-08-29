@@ -1,0 +1,67 @@
+{
+  "buildCommand" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildOnly"
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "12be4647360c499a08ac920f6fa655880c8cfa3eaef585e3ffd19d10b89ecb02"
+    }
+  ],
+  "containerPath" : "/Users/cecily_chung/dev/brgd/slinky_dog/SlinkyDog/Intermediate/ProjectFiles/SlinkyDog_Mac_SlinkyDogGame.xcworkspace",
+  "continueBuildingAfterErrors" : false,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : true,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "undefined_arch",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : true,
+      "platform" : "macosx",
+      "sdk" : "macosx14.5",
+      "sdkVariant" : "macos",
+      "supportedArchitectures" : [
+        "arm64",
+        "arm64e",
+        "x86_64",
+        "x86_64h"
+      ],
+      "targetArchitecture" : "undefined_arch"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "",
+      "buildProductsPath" : "",
+      "derivedDataPath" : "/Users/cecily_chung/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/cecily_chung/Library/Developer/Xcode/DerivedData/SlinkyDog_Mac_SlinkyDogGame-gwdyfupqwioxpabcsolhweadctml/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/cecily_chung/Library/Developer/Xcode/DerivedData/SlinkyDog_Mac_SlinkyDogGame-gwdyfupqwioxpabcsolhweadctml/Index.noindex/PrecompiledHeaders",
+      "pchPath" : ""
+    },
+    "configurationName" : "Shipping",
+    "overrides" : {
+      "commandLine" : {
+        "table" : {
+          "CODE_SIGN_ALLOW_ENTITLEMENTS_MODIFICATION" : "YES",
+          "SYMROOT" : "/Users/cecily_chung/dev/brgd/slinky_dog/SlinkyDog/Binaries",
+          "UE_OVERRIDE_STAGE_DIR" : "/Users/cecily_chung/dev/brgd/slinky_dog/SlinkyDog/Saved/StagedBuilds/Mac",
+          "UE_XCODE_BUILD_MODE" : "Package"
+        }
+      },
+      "synthesized" : {
+        "table" : {
+          "ACTION" : "build",
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "NO"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
